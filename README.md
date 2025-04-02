@@ -4,4 +4,6 @@
 
 Создадим и перейдет в каталог lab1
 
-```mkdir lab1 & cd lab1```
+```
+mkdir lab1 & cd lab1
+```
